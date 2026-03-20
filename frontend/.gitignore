@@ -18,3 +18,4 @@ backend/fenv/
 # Node
 node_modules/
 
+.next/

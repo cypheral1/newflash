@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+*.manifest
+*.spec
+*.pyc
+.Python
+
+# virtualenv
+backend/fenv/
+
+# OS
+.DS_Store
+
+# Node
+node_modules/
+
